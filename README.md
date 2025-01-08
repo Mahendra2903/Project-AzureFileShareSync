@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 1: Azure File Share Sync
 
 ## Description
@@ -38,3 +39,7 @@ AzureSharedDrive/
 
 ## Author
 Mahi Reddy
+=======
+# Project-AzureFileShareSync
+Automating two-way sync between Azure File Share and local directory using AzCopy and cron jobs
+>>>>>>> origin/main
