@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project 1: Azure File Share Sync
 
 ## Description
